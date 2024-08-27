@@ -15,3 +15,5 @@ make
 
 
 ![Screenshot](https://raw.githubusercontent.com/area-of-dev/Thorium.AppImage/master/screenshots/Screenshot_20200418_134504.png)
+
+![example workflow](https://github.com/nx-appbuild-hub/Thorium.AppImage//actions/workflows/makefile.yml/badge.svg)
